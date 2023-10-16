@@ -1,0 +1,14 @@
+@import "./abstracts/variables";
+@import "./common";
+
+body {
+  margin: 0;
+  font-size: 14px;
+  background-color: var(--gray-lighter);
+  color: var(--black);
+  font-family: Roboto;
+}
+
+#app {
+  padding: 64px 72px;
+}

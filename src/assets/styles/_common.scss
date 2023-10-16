@@ -1,0 +1,36 @@
+.d-flex {
+  display: flex;
+}
+
+.d-inline-flex {
+  display: inline-flex;
+}
+
+.flex-dir-col {
+  flex-direction: column;
+}
+
+.d-flex-center {
+  align-items: center;
+  justify-content: center;
+}
+
+.al-it-center {
+  align-items: center;
+}
+
+.al-it-end {
+  align-items: flex-end;
+}
+
+.j-c-sp-bet {
+  justify-content: space-between;
+}
+
+.j-c-end {
+  justify-content: flex-end;
+}
+
+.col-gap-10 {
+  column-gap: 10px;
+}

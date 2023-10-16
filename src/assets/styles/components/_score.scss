@@ -1,0 +1,21 @@
+.score-container {
+  width: 30%;
+  height: 200px;
+  margin: auto;
+  background-color: var(--green-op-40);
+  border: 1px solid var(--green-op-60);
+  border-radius: 8px;
+  font-size: 18px;
+  margin-bottom: 20px;
+
+  .congrats {
+    font-weight: bold;
+    padding: 10px;
+  }
+
+  .score {
+    span {
+      font-weight: bold;
+    }
+  }
+}
